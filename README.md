@@ -1,9 +1,11 @@
-# Casper-Theme---Dark-Mode-Disabled
+# Disable Dark-Mode
 
-Love blogging with Ghost and using their Casper theme, but hate that dark mode's enabled by default?
+Love blogging with Ghost, but hate the dark mode preferences that are enabled on their themes by default?
 
-Download Casper 3.0.12 with dark mode disabled or download the source files in the repo and compress them yourself.
+Download Ghost's blog themes with dark mode settings disabled.
 
-## What changes were made to the Casper theme to disable dark mode?
+Download themes individual ZIP files or download source files and compress them yourself.
 
-Disabling dark mode requires changing /assets/built/screen.css and the /assets/css/screen.css to disable code by deleting or commenting out dark mode CSS styles.
+## What changes are made to themes to disable dark mode?
+
+Disabling dark mode requires changing /assets/built/screen.css and /assets/css/screen.css to disable code by commenting out dark mode CSS styles.
